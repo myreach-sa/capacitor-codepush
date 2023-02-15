@@ -75,25 +75,25 @@
   dependencies:
     tslib "^2.1.0"
 
-"@capacitor/device@4.1.0":
+"@capacitor/device@^4.0.0":
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/@capacitor/device/-/device-4.1.0.tgz#b9f73368f6f6f1194181bcd7bc4b8a021c67f33e"
   integrity sha512-BlcYb6e6m+vC1SxeyUDIUGfuNXdKEcpFPDCs/kxk2SByFc/BkvXeoy4NjY4qmTderGELofX9bta5Iy9JV7rGUg==
 
-"@capacitor/dialog@4.1.0":
+"@capacitor/dialog@^4.0.0":
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/@capacitor/dialog/-/dialog-4.1.0.tgz#a66a3ec01d7209aa1bec04fdf9d51213a58710cf"
   integrity sha512-Uej4+WE6Ec445iTzLVD22fmsPfu8nW+IJyiixtzP5+ZLNhdJ5mjbMUUTUrZTbDUK8hViFRsfLo90qbeGzgMTVA==
-
-"@capacitor/filesystem@4.1.4":
-  version "4.1.4"
-  resolved "https://registry.yarnpkg.com/@capacitor/filesystem/-/filesystem-4.1.4.tgz#021ef707ca199d554042ebc85151416dec07020a"
-  integrity sha512-ivko1RNK4hq63xhMacq8D6D97N5/SAafTsrmY/pghYrG6Cl2SEY0+IgRu7V9/VWeN3FSplyUPucjUTAFQxXN5g==
 
 "@capacitor/filesystem@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@capacitor/filesystem/-/filesystem-1.1.0.tgz#0bd6a8bc185b7fd9a1219c3080ab26c2b54ea8b6"
   integrity sha512-8O3UuvL8HNUEJvZnmn8yUmvgB1evtXfcF0oxIo3YbSlylqywJwS3JTiuhKmsvSxCdpbTy8IaTsutVh3gZgWbKg==
+
+"@capacitor/filesystem@^4.0.0":
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/@capacitor/filesystem/-/filesystem-4.1.4.tgz#021ef707ca199d554042ebc85151416dec07020a"
+  integrity sha512-ivko1RNK4hq63xhMacq8D6D97N5/SAafTsrmY/pghYrG6Cl2SEY0+IgRu7V9/VWeN3FSplyUPucjUTAFQxXN5g==
 
 "@capacitor/ios@^3.0.0":
   version "3.9.0"

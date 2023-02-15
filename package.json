@@ -1,6 +1,6 @@
 {
   "name": "@rea.ch/capacitor-codepush",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "CodePush Plugin for Capacitor",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -71,13 +71,13 @@
   },
   "dependencies": {
     "code-push": "^4.0.2",
-    "@capacitor-community/http": "1.4.1"
-  },
-  "peerDependencies": {
-    "@capacitor/core": "^4.0.0",
+    "@capacitor-community/http": "1.4.1",
     "@capacitor/device": "^4.0.0",
     "@capacitor/dialog": "^4.0.0",
-    "@capacitor/filesystem": "^1.0.0"
+    "@capacitor/filesystem": "^4.0.0"
+  },
+  "peerDependencies": {
+    "@capacitor/core": "^4.0.0"
   },
   "capacitor": {
     "android": {
